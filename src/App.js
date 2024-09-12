@@ -1,9 +1,10 @@
-
-
+// import Advice from "./components/Advice";
+import SplitBill from "./components/SplitBill";
 function App() {
   return (
-    <div >
-      hello-react~~
+    <div>
+      {/* <Advice></Advice> */}
+      <SplitBill></SplitBill>
     </div>
   );
 }

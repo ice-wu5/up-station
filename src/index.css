@@ -1,0 +1,33 @@
+.of-c {
+  object-fit: cover;
+}
+
+.block {
+  display: block;
+}
+
+.grey {
+  color: rgb(44, 43, 43);
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.br-5 {
+  border-radius: 5px;
+}
+
+.py-5 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.px-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.w-f-c {
+  width: fit-content;
+}
