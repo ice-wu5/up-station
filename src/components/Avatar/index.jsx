@@ -4,7 +4,7 @@ function Avatar({ url, size }) {
       <img
         src={url}
         alt=""
-        className="of-c block"
+        className="of-c block br-p50"
         style={{ width: size + "px", height: size + "px" }}
       ></img>
     </div>
