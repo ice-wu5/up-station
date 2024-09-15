@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
 }
-
+.w-350 {
+  width: 350px;
+}
 .w-300 {
   width: 300px;
 }
@@ -18,7 +20,9 @@
 .w-80 {
   width: 80px;
 }
-
+.h-320 {
+  height: 320px;
+}
 .h-120 {
   height: 120px;
 }
@@ -123,6 +127,9 @@
 .fs-16 {
   font-size: 16px;
 }
+.fs-14 {
+  font-size: 14px;
+}
 .fw-700 {
   font-weight: 700;
 }
@@ -142,7 +149,12 @@
 .ol-none {
   outline: none;
 }
-
+.input:focus-visible {
+  border: 1px solid orange;
+}
 .tal {
   text-align: left;
+}
+.tac {
+  text-align: center;
 }
